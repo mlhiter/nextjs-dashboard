@@ -1,4 +1,4 @@
 {
   "typescript.tsdk": "node_modules\\typescript\\lib",
-  "cSpell.words": ["heroicons", "lusitana", "sidenav"]
+  "cSpell.words": ["heroicons", "lusitana", "sidenav", "Signin"]
 }
